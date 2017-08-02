@@ -19,7 +19,7 @@ data01_sess2_bs10.pkl | _data for subject 1, session 2_
 labels01_sess1.pkl | _trial labels for subject 1, session 1_
 labels01_sess2.pkl | _trial labels for subject 1, session 2_
 
-The tutorial requires 4 additional python packages, which should be available/pre-installed in most scientific python distributions: numpy, scipy, scikit-learn, matplotlib
+The tutorial requires 4 additional python packages, which should be pre-installed in most scientific python distributions: numpy, scipy, scikit-learn, matplotlib
 
 ### Tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/python_decoding.ipynb)
