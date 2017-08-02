@@ -14,6 +14,7 @@ Content of the zip file:
 File | Description
 --- | --- 
 cv.py | _containing code for pseudo-trials/permutations/cross-validation_
+dissimilarity.py | _containing a number of custom dissimilarity measures_
 weird.py | _weighted robust distance classifier (WeiRD), see also [here](https://github.com/m-guggenmos/weird)_
 data01_sess1_bs10.pkl | _data for subject 1, session 1_
 data01_sess2_bs10.pkl | _data for subject 1, session 2_
