@@ -7,7 +7,7 @@ This tutorial accompanies the preprint titled "Multivariate pattern analysis for
 ## Python tutorial
 
 ### Preparation
-This tutorial can be downloaded as a zip file from [placeholder](https://github.com/m-guggenmos/megmvpa/tutorial_python.zip). In addition to [Jupyter-Notebook-based tuturials](https://ipython.org/notebook.html), this zip file includes the example dataset used for this tutorial. To reduce computational costs for the tutorial, the dataset is for one participant only and includes only 10 of 92 experimental conditions.
+This tutorial can be downloaded as a zip file from [placeholder](https://github.com/m-guggenmos/megmvpa/tutorial_python.zip). In addition to [Jupyter-Notebook-based tuturials](https://ipython.org/notebook.html), this zip file includes the example dataset used for this tutorial. To reduce computational costs, the dataset is for one participant only and includes only 10 of 92 experimental conditions.
 
 Content of the zip file:
 
@@ -22,7 +22,7 @@ labels01_sess2.pkl | _trial labels for subject 1, session 2_
 
 In addition, the tutorial requires 4 established scientific python packages: numpy, scipy, scikit-learn, matplotlib
 
-### Tutorials:
+### List of tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/python_decoding.ipynb)
 * [RDMs and Reliability](https://github.com/m-guggenmos/megmvpa/blob/master/python_reliability.ipynb)
 
