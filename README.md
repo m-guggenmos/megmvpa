@@ -7,19 +7,19 @@ This tutorial accompanies the preprint titled "Multivariate pattern analysis for
 ## Python tutorial
 
 ### Preparation
-The custom code for this tutorial can be downloaded as a zip file from [placeholder](https://github.com/m-guggenmos/megmvpa/tutorial_python.zip). This zip file includes the example dataset used for this tutorial. To reduce computational costs for the tutorial, the dataset is for one participant only and includes only 10 of 92 experimental conditions.
-In addition, the zip file contains the following python files underlying the tutorial: 
+This tutorial can be downloaded as a zip file from [placeholder](https://github.com/m-guggenmos/megmvpa/tutorial_python.zip). In addition to [Jupyter-Notebook-based tuturials](https://ipython.org/notebook.html), this zip file includes the example dataset used for this tutorial. To reduce computational costs for the tutorial, the dataset is for one participant only and includes only 10 of 92 experimental conditions.
+
+Content of the zip file:
 
 File | Description
 --- | --- 
 cv.py | _containing code for pseudo-trials/permutations/cross-validation_
+data01_sess1_bs10.pkl | _data for subject 1, session 1_
+data01_sess2_bs10.pkl | _data for subject 1, session 2_
+labels01_sess1.pkl | _trial labels for subject 1, session 1_
+labels01_sess2.pkl | _trial labels for subject 1, session 2_
 
-
-The tutorial requires 4 additional python packages, which should be available/pre-installed in most scientific python distributions: 
-* numpy
-* scipy
-* scikit-learn
-* matplotlib
+The tutorial requires 4 additional python packages, which should be available/pre-installed in most scientific python distributions: numpy, scipy, scikit-learn, matplotlib
 
 ### Tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/python_decoding.ipynb)
