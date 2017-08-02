@@ -25,6 +25,7 @@ In addition, the tutorial requires 4 established scientific python packages: num
 ### List of tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/python_decoding.ipynb)
 * [RDMs and Reliability](https://github.com/m-guggenmos/megmvpa/blob/master/python_reliability.ipynb)
+* [Euclidean distance versus Pearson distance](https://github.com/m-guggenmos/megmvpa/blob/master/python_distance.ipynb)
 
 ## Matlab tutorial (in preparation)
 * [placeholder](https://github.com/m-guggenmos/megmvpa/blob/master/matlab_decoding.ipynb)
