@@ -7,7 +7,7 @@ This tutorial accompanies the preprint titled "Multivariate pattern analysis for
 ## Python tutorial
 
 ### Preparation
-This tutorial is based on [IPython/Jupyter Notebook](https://jupyter.org/) files, which are linked below. The tutorial is also available as a [zip file](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python.zip), which includes the notebook files, additional code files and the example dataset used for this tutorial. To reduce computational costs, the dataset is for one participant only and includes only 9 of 92 experimental conditions.
+This tutorial is based on [IPython/Jupyter Notebook](https://jupyter.org/) files, which are linked below. In addition, the tutorial can be downloaded as a [zip file](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python.zip), which includes the notebook files, additional code files and the example dataset used for this tutorial. To reduce computational costs, the dataset is for one participant only and includes only 9 of 92 experimental conditions.
 
 Content of the zip file:
 
