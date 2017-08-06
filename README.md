@@ -2,7 +2,7 @@
 
 [work in progress]
 
-This tutorial accompanies the preprint titled "Multivariate pattern analysis for MEG: a comprehensive comparison of dissimilarity measures", which is available at [placeholder](http://doi.org/).
+This tutorial accompanies the preprint titled "Multivariate pattern analysis for MEG: a comprehensive comparison of dissimilarity measures", which is available at [biorxiv](http://www.biorxiv.org/content/early/2017/08/04/172619).
 
 ## Python tutorial
 
