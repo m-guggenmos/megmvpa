@@ -27,9 +27,9 @@ labels01_sess2.npy | _trial labels for subject 1, session 2_
 In addition, the tutorial requires 4 established scientific python packages: numpy, scipy, scikit-learn, matplotlib
 
 ### List of tutorials:
-* [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/python_decoding.ipynb)
-* [RDMs and Reliability](https://github.com/m-guggenmos/megmvpa/blob/master/python_reliability.ipynb)
-* [Distance measures and cross-validation](https://github.com/m-guggenmos/megmvpa/blob/master/python_distance.ipynb)
+* [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python/python_decoding.ipynb)
+* [RDMs and Reliability](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python/python_reliability.ipynb)
+* [Distance measures and cross-validation](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python/python_distance.ipynb)
 
 ## Matlab tutorial (in preparation)
-* [placeholder](https://github.com/m-guggenmos/megmvpa/blob/master/matlab_decoding.ipynb)
+* [placeholder](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
