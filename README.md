@@ -32,4 +32,4 @@ In addition, the tutorial requires 4 established scientific python packages: num
 * [Distance measures and cross-validation](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_python/python_distance.ipynb)
 
 ## Matlab tutorial (in preparation)
-* [placeholder](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
+* [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
