@@ -55,3 +55,5 @@ In addition, the tutorial assumes a working [LIBSVM](https://www.csie.ntu.edu.tw
 
 ### List of tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
+* [RDMs and Reliability](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_reliability.ipynb)
+* [Distance measures and cross-validation](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_distance.ipynb)
