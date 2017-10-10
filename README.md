@@ -1,4 +1,4 @@
-# MVPA MEG Tutorial
+# MVPA MEG Tutorial (Python & Matlab)
 
 This tutorial accompanies the preprint titled "Multivariate pattern analysis for MEG: a comprehensive comparison of dissimilarity measures", which is available at [bioRxiv](https://doi.org/10.1101/172619).
 
