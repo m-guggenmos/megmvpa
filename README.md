@@ -2,7 +2,7 @@
 
 [work in progress]
 
-This tutorial accompanies the preprint titled "Multivariate pattern analysis for MEG: a comprehensive comparison of dissimilarity measures", which is available at [biorxiv](http://www.biorxiv.org/content/early/2017/08/04/172619).
+This tutorial accompanies the preprint titled "Multivariate pattern analysis for MEG: a comprehensive comparison of dissimilarity measures", which is available at [bioRxiv](https://doi.org/10.1101/172619).
 
 ## Python tutorial
 
@@ -50,6 +50,8 @@ data01_sess1.mat | _data for subject 1, session 1_
 data01_sess2.mat | _data for subject 1, session 2_
 labels01_sess1.mat | _trial labels for subject 1, session 1_
 labels01_sess2.mat | _trial labels for subject 1, session 2_
+
+In addition, the tutorial assumes a working [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download) installation for Matlab.
 
 ### List of tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
