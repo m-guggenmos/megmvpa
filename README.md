@@ -51,7 +51,7 @@ data01_sess2.mat | _data for subject 1, session 2_
 labels01_sess1.mat | _trial labels for subject 1, session 1_
 labels01_sess2.mat | _trial labels for subject 1, session 2_
 
-In addition, the tutorial assumes a working [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download) installation.
+In addition, the tutorial assumes a working [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download) installation for Matlab.
 
 ### List of tutorials:
 * [Decoding](https://github.com/m-guggenmos/megmvpa/blob/master/tutorial_matlab/matlab_decoding.ipynb)
