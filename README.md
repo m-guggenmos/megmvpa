@@ -38,7 +38,7 @@ Content of the zip file:
 
 File | Description
 --- | --- 
-covCor.m | _Shrinkage code (Ledoit & Wolf, 2003) for covariances_
+cov1para.m | _Shrinkage code (Ledoit & Wolf, 2004) for covariances_
 weirdtrain.m & weirdpredict.m | _Weighted Robust Distance (WeiRD) classifier_
 gnbtrain.m & gnbpredict.m | _Gaussian Naive Bayes (GNB) classifier_
 matlab_decoding.ipynb | Notebook on _Decoding_
