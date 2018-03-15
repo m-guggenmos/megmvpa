@@ -44,8 +44,8 @@ cov1para.m | _Shrinkage code (Ledoit & Wolf, 2004) for covariances_
 weirdtrain.m & weirdpredict.m | _Weighted Robust Distance (WeiRD) classifier_
 gnbtrain.m & gnbpredict.m | _Gaussian Naive Bayes (GNB) classifier_
 matlab_decoding.ipynb | Notebook on _Decoding_
-matlab_reliability.ipynb | Notebook on _RDMs and Reliability (in preparation)_
-matlab_distance.ipynb | Notebook on _Distance measures and cross-validation (in preparation)_
+matlab_reliability.ipynb | Notebook on _RDMs and Reliability_
+matlab_distance.ipynb | Notebook on _Distance measures and cross-validation_
 data01_sess1.mat | _data for subject 1, session 1_
 data01_sess2.mat | _data for subject 1, session 2_
 labels01_sess1.mat | _trial labels for subject 1, session 1_
