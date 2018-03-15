@@ -2,6 +2,8 @@
 
 This tutorial accompanies the paper titled "Multivariate pattern analysis for MEG: a comparison of dissimilarity measures", which is available [here](https://doi.org/10.1016/j.neuroimage.2018.02.044) ([preprint](https://doi.org/10.1101/172619)).
 
+*Citation:* Guggenmos, M., Sterzer, P., & Cichy, R. M. (2018). Multivariate pattern analysis for MEG: a comparison of dissimilarity measures. NeuroImage. DOI: 10.1016/j.neuroimage.2018.02.044
+
 ## Python tutorial
 
 ### Preparation
